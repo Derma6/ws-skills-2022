@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️ - Utilisation des différentes boucles et méthodes du langage. Manipulation d'objets et de tableau.
+- les normes `ecmascript` ❌ / ✔️ - A voir
+- l'utilisation de l'`asynchrone` ✔️ - Utilisation des méthodes asynchrone avec async/await ou .then. 
+- les spécifités du mot-clef `this` ❌ / ✔️ - A voir
 
 ## 💻 Je code en Javascript
 
@@ -19,11 +19,13 @@
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/Derma6/FoodTroc-Project)
 
-Description :
+Description : Réalisation d'un projet de groupe à la fin de ma formation précédente. Code réalisé à 2 sur 2 semaines de travail. 
+
+Stack technique : NodeJS, ExpressJS, MongoDB / ReactJS, CSS 
 
 ### J'ai utilisé ce langage en production ❌ / ✔️
 
@@ -37,10 +39,17 @@ Description :
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### MDN 
 
-- lien
-- description
+- https://developer.mozilla.org/fr/
+- Utilisation de MDN pour voir ou revoir comment fonctionne une méthode.
+
+### StackOverflow 
+
+- https://stackoverflow.com/
+- Utilisation du forum pour trouver des solutions aux problèmes
+
+
 
 ## 🚧 Je franchis les obstacles
 

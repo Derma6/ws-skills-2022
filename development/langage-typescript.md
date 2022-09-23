@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE ✔️ - Permet de detecter des erreurs de code avant l'exécution de celui-ci.
+- les types de bases ✔️ - string, number, boolean, array, any, void 
+- comment et pourquoi étendre une interface ✔️ - Grace au mot "extends". Pour éviter de répéter du code, permet de réutiliser les propriétés de celle-ci et d'y ajouter des types supplémentaires.
 - les classes et les decorators ❌ / ✔️
 
 ## 💻 J'utilise
@@ -17,9 +17,9 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[lien github](https://github.com/Derma6/first-project-WCS-typescript)
 
-Description :
+Description : Adaptation du premier projet de la WCS en typescript. 
 
 ### Utilisation en production si applicable❌ / ✔️
 
@@ -33,9 +33,9 @@ Description :
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### Documentation officiel 
 
-- lien
+- https://www.typescriptlang.org/
 - description
 
 ## 🚧 Je franchis les obstacles

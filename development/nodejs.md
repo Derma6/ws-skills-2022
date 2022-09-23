@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple) ❌ / ✔️
-- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ❌ / ✔️
-- Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ❌ / ✔️
+- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple) ✔️ - Installation et utilisation de nodemon ou de ts-node-dev pour le reloading d'une app NodeTS.
+- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ✔️ - Connexion d'une appli NodeTS avec mysql et typeorm pour un projet perso privée pour le moment.
+- Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ❌ / ✔️ - API Rest avec Express Ok.
 - *Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS* ❌ / ✔️
 
 ## 💻 J'utilise
@@ -23,25 +23,27 @@ const convertMDFileToHTML = (pathToMDfile) => /* ... path to HTML file */
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[lien github](https://github.com/Derma6/FoodTroc-Project)
 
-Description :
+Description : Réalisation d'un projet de groupe à la fin de ma formation précédente. Code réalisé à 2 sur 2 semaines de travail. 
+
+Stack technique : NodeJS, ExpressJS, MongoDB / ReactJS, CSS 
 
 ### Utilisation en production si applicable❌ / ✔️
 
 [lien du projet](...)
 
-Description :
+Description : 
 
 ### Utilisation en environement professionnel ❌ / ✔️
 
-Description :
+Description : 
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### Documentation officiel Express
 
-- lien
+- https://expressjs.com/fr/
 - description
 
 ## 🚧 Je franchis les obstacles
